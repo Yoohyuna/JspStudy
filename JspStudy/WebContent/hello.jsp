@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
-<html>
+<html> 
 <head>
 <meta charset="UTF-8">
 <title>JSP 구성요소</title>
@@ -15,5 +15,5 @@
   out.println("<h1>"+str+"</h1>");//형식) out.println(출력할 문장);
  
  %>
-</body>
+</body>  
 </html>
